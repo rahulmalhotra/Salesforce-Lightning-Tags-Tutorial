@@ -21,7 +21,7 @@
                         <lightning:outputField fieldName="MobilePhone" />    
                     </div>
                     <div class="slds-col slds-size_1-of-2">
-                        <lightning:outputField fieldName="Phone" />    
+                        <lightning:outputField fieldName="AccountId" />    
                         <lightning:outputField fieldName="Department" />    
                         <lightning:outputField fieldName="Birthdate" />    
                     </div>
